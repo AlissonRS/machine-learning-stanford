@@ -1,2 +1,2 @@
-# machine-learning-stanford
-Machine Learning classes from Andrew Ng (Stanford) using Octave.
+# Machine Learning Stanford
+Machine Learning classes from Andrew Ng (Stanford) using Octave (MATLAB).
